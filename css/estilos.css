@@ -334,7 +334,7 @@ h1 strong {
 }
 
 /*desktop first que empiece desde el MQ más grande*/
-
+/*
 @media screen and (max-width: 1023px) {
   .event-list-title {
     margin-left: 0;
@@ -361,16 +361,13 @@ h1 strong {
     top: 0;
     bottom: 0;
     width: 100%;
-
-    /* filter: opacity(80%) blur(1px); */
   }
 
   h1 {
     font-size: 2em;
     z-index: 2;
-    /*text-shadow: 1px 2px 2px #000;*/
   }
-}
+}*/
 
 .html-video {
   width: 100%;
@@ -397,7 +394,7 @@ h1 strong {
   background: blue;
   position: relative;
 }
-
+/*
 @media screen and (max-width: 767px) {
   h2 {
     font-size: 1.2em;
@@ -439,7 +436,6 @@ h1 strong {
     top: 0;
     left: -100vw;
     width: 100vw;
-    /* height: 100vh; */
     bottom: 0;
     display: flex;
     align-items: center;
@@ -462,7 +458,6 @@ h1 strong {
 
   .project-details {
     width: auto;
-    /*font-size: 16px;*/
   }
 
   .project-course,
@@ -500,15 +495,14 @@ h1 strong {
   .event img {
     width: 100%;
   }
-}
-
+}*/
+/*
 @media screen and (max-width: 480px) {
   h1 {
     font-size: 1.5em;
   }
 
   .project-details {
-    /* width: auto; */
     font-size: 14px;
   }
 
@@ -542,7 +536,8 @@ h1 strong {
     height: 40px;
     background-size: 100%;
   }
-}
+}*/
+/*
 @media screen and (max-width: 320px) {
   h1 {
     font-size: 1.2em;
@@ -551,4 +546,4 @@ h1 strong {
   .hero {
     padding: 2em 1em;
   }
-}
+ } */
